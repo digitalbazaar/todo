@@ -1,0 +1,3 @@
+- better algo? __FIXME__ [Link](http://github.com/digitalbazaar/bedrock-ledger-consensus-uni/blob/implementation/lib/index.js#L215)
+- implement max retries __FIXME__ [Link](http://github.com/digitalbazaar/bedrock-ledger-consensus-uni/blob/implementation/lib/index.js#L71)
+- This should be generated based on the latest block number __FIXME__ [Link](http://github.com/digitalbazaar/bedrock-ledger-consensus-uni/blob/implementation/lib/index.js#L47)

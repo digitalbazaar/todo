@@ -1,0 +1,4 @@
+- doesn't follow data model/@context __FIXME__ [Link](http://github.com/digitalbazaar/bedrock-ledger-agent/blob/cm4/lib/http.js#L279)
+- Implement __FIXME__ [Link](http://github.com/digitalbazaar/bedrock-ledger-agent/blob/cm4/lib/http.js#L341)
+- Implement any setup tasks __FIXME__ [Link](http://github.com/digitalbazaar/bedrock-ledger-agent/blob/cm4/lib/api.js#L46)
+- we probably want private to default to false __FIXME__ [Link](http://github.com/digitalbazaar/bedrock-ledger-agent/blob/cm4/lib/api.js#L73)
